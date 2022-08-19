@@ -6,11 +6,11 @@
 -- "Description: Build amazing TUIs (Text User Interfaces) with this innovative Python framework."
 -- "Keywords: singularity utilities"
 
-whatis("Name: rich")
+whatis("Name: rich-cli")
 whatis("Version: 1.8.0")
-whatis("Category: Biological Sciences")
+whatis("Category: Utilities")
 whatis("URL: https://www.psc.edu/resources/software")
-whatis("Description: rich is a short reads mapping software for bisulfite sequencing reads.")
+whatis("Description: Build amazing TUIs (Text User Interfaces) with this innovative Python framework.")
 whatis("Keywords: singularity utilities")
 
 help([[
