@@ -6,6 +6,10 @@
 ![License](https://img.shields.io/github/license/pscedu/singularity-rich-cli)
 
 # singularity-rich-cli
+<video width="320" height="240" controls>
+  <source src="https://d32lig6y1jobn4.cloudfront.net/textual.mp4" type="video/mp4">
+</video>
+
 Singularity recipe for [rich-cli](https://www.textualize.io/).
 
 ## Installing the container on Bridges 2
